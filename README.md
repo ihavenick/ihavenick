@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&theme=dark)](https://github.com/ihavenick/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&layout=compact&theme=dark&hide=cmake,makefile)](https://github.com/ihavenick)
+
+[![Website](https://atacetin.net)](https://atacetin.net)
 
 <!--
 **ihavenick/ihavenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
