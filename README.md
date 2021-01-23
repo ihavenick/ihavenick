@@ -1,5 +1,5 @@
 ![ihavenick's github stats](https://github-readme-stats.vercel.app/api?username=ihavenick&show_icons=true&theme=react)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&layout=compact&theme=dark&hide=cmake,makefile)](https://github.com/ihavenick)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&layout=compact&theme=react&hide=cmake,makefile)](https://github.com/ihavenick)
 
 [![Website](https://atacetin.net)](https://atacetin.net)
 
