@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Front End Developing
 
 ## My Game Projects
-- [SpaceInvaders Clone C++](https://github.com/ihavenick/UzaydanIstilacilar)
+- [SpaceInvaders Cocos2d-x C++](https://github.com/ihavenick/UzaydanIstilacilar)
 - [FPS Mechanics C++ Unreal](https://github.com/ihavenick/FPS_Unreal)
 - [HyperCasual Fall Guys Clone](https://github.com/ihavenick/PanteonGames)
 - [Unreal 3D Action Game](https://ihavenick.itch.io/mortal-error)
