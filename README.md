@@ -1,7 +1,6 @@
 ![Ata Çetin Logo](logouzun.png?raw=true#gh-dark-mode-only "Ata Çetin")
 ![Ata Çetin Logo](logouzunlight.png?raw=true#gh-light-mode-only "Ata Çetin")
 
-(There is a logo, seen in dark mode)
 
 ## Hi ! I am Ata
 
