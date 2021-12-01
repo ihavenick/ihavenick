@@ -1,8 +1,14 @@
-![Ata Çetin Logo](logouzun.png?raw=true "Ata Çetin")
+![Ata Çetin Logo](logouzun.png?raw=true#gh-dark-mode-only "Ata Çetin")
+![Ata Çetin Logo](logouzunlight.png?raw=true#gh-light-mode-only "Ata Çetin")
+
+(There is a logo, seen in dark mode)
 
 ## Hi ! I am Ata
-- 🔭 I’m currently working on hobby game project
-- 🌱 I’m currently learning Blazor
+
+Born in 1997 in Ankara, he has been interested in electronics since his childhood. Anadolu University Business Administration graduate. He is studying at METU Sem Information Technologies and Anadolu University Computer Programming. Graduated from the BilgeAdam.net course with a Certificate of Excellence.
+
+- 🔭 I’m currently working on point & click game project
+- 🌱 I’m currently learning Blazor, Javascipt
 - 🤔 I’m looking for help with Front End Developing
 
 ## My Game Projects
@@ -25,25 +31,10 @@
 [![](https://img.shields.io/badge/Forgetten%20Website-%230077B5.svg?&style=for-the-badge&logo=googlechrome&logoColor=white)](https://atacetin.com.tr)
 [![](https://img.shields.io/badge/Forgetten%20Blog-%230077B5.svg?&style=for-the-badge&logo=googlechrome&logoColor=yellow)](https://ihavenick.net)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&layout=compact&theme=react&hide=cmake,makefile)](https://github.com/ihavenick) ![ihavenick's github stats](https://github-readme-stats.vercel.app/api?username=ihavenick&show_icons=true&theme=react) 
-
 ![visitors](https://img.shields.io/badge/dynamic/json?color=blue&style=for-the-badge&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fihavenick.ihavenick%2Freadme)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atacetin/)
 
-
-
-
-<!--
-**ihavenick/ihavenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stats
+<div> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihavenick&layout=compact&theme=react&hide=cmake,makefile" width="45%" alt="ihavenick most used languages"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ihavenick&show_icons=true&theme=react" alt="ihavenick commit stats" width="45%"/>
+</div>
